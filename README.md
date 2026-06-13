@@ -2,7 +2,7 @@
 
 A comprehensive end-to-end Machine Learning and AI project that predicts product prices from textual descriptions using Traditional Machine Learning, Neural Networks, and Large Language Models (LLMs).
 
-The project follows the complete AI development lifecycle from data curation and preprocessing to model evaluation, deep learning, frontier LLM experimentation, and fine-tuning preparation.
+The project follows the complete AI development lifecycle from data curation and preprocessing to model evaluation, deep learning, frontier LLM experimentation, and fine-tuning workflow preparation.
 
 ---
 
@@ -82,7 +82,7 @@ Compared models using prediction error metrics and benchmarking techniques.
 
 ### 🧠 Day 4 – Neural Networks & LLMs
 
-### Human Evaluation
+#### Human Evaluation
 
 Created a human benchmark using:
 
@@ -127,6 +127,10 @@ Implemented the complete fine-tuning workflow:
 ---
 
 ## 🤖 Models Explored
+
+### Baselines
+* Random Pricer
+* Constant Average Price Pricer
 
 ### Traditional Machine Learning
 
